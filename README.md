@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uday-uppal
 - 👀 I’m interested in everything that offers a challenge.
-- 🌱 I’m currently learning AI-ML, React JS, and Polygon Blockchain!
-- 💞️ I’m looking to collaborate on Neural Network Research! 
+- 🌱 I’m currently learning Machine Learning, Data Science and Artificial Intelligence!
+- :brain:	I have internship experience at Indian Institute of Technology Kharaghpur
 - 📫 How to reach me? udayuppal2@gmail.com
 
 <!---
